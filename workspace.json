@@ -1,0 +1,7 @@
+{
+  "version": 2,
+  "projects": {
+    "nx-playwright": "packages/nx-playwright",
+    "nx-playwright-e2e": "e2e/nx-playwright-e2e"
+  }
+}
